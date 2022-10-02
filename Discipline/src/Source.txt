@@ -1,6 +1,14 @@
 Workout
 1/10
+2/10 -PushUp
 
 Diet (Sugar)
 1/10 Lemon Water, Zero Cola
+2/10 Lemon Tea, Zero Cola
 
+Day1 learnopengl
+Day2 cpp  
+Day3 cpp 
+Day4 Hazell
+Day5 unity, blender, 3dsMax
+Day6 unreal
