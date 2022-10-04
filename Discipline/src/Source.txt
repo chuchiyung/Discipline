@@ -2,10 +2,13 @@ Workout
 1/10
 2/10 -PushUp
 3/10 None
+4/10
+
 Diet (Sugar)
 1/10 Lemon Water, Zero Cola
 2/10 Lemon Tea, Zero Cola
 3/10 Cola, Sprite
+4/10 Lemon Tea, Zero Cola
 
 Day1 learnopengl
 Day2 cpp  
